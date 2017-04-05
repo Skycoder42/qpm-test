@@ -1,0 +1,22 @@
+{
+  "name": "de.gmx.qpm-test",
+  "description": "",
+  "author": {
+    "name": "Sky",
+    "email": "skycoder42.de@gmx.de"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/Skycoder42/qpm-test.git"
+  },
+  "version": {
+    "label": "0.0.1",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [
+  ],
+  "license": "MIT",
+  "pri_filename": "de_gmx_qpm-test.pri",
+  "webpage": ""
+}

@@ -1,0 +1,6 @@
+
+<RCC>
+    <qresource prefix="/de/gmx/qpm-test">
+        <file>qmldir</file>
+    </qresource>
+</RCC>
